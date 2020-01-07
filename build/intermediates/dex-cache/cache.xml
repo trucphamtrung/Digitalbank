@@ -2,25 +2,31 @@
 <items version="2" >
 
     <item
-        jar="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/jars/classes.jar"
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.android.support/support-v4/19.1.0/85f201b380937e61a9dce6ca90ccf6872abbfb67/support-v4-19.1.0.jar"
         jumboMode="false"
-        revision="22.0.1"
-        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
-        <dex dex="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/pre-dexed/debug/classes-e77d2628bc9caf86fe297ffad18508eaea7e621c.jar" />
-    </item>
-    <item
-        jar="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
-        <dex dex="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/pre-dexed/debug/classes-7e0f1beec7ab0c82e6337a2ac20e6cfff490f16a.jar" />
-    </item>
-    <item
-        jar="/Users/BugWrangler/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
+        optimize="true"
+        revision="25.0.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="/Users/BugWrangler/Desktop/DigitalBank/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ca7b6d1957cede9f150fe7a2d7e5d944e349cf15.jar" />
+        <dex dex="/root/workplace/insync/pentest/Digitalbank/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_73f25afd7e7e659bffa53b7c940b8d259ae43f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/d9fbb32acde1f0bfa8fa762461b0d7e35f0182dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af4cc326e6cd92f88db12298767e521743aedd36">
+        <dex dex="/root/workplace/insync/pentest/Digitalbank/app/build/intermediates/pre-dexed/debug/classes_fbce56097d240a83a409a3d62e8187cbd95e9355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.android/build-cache/c6534a23d15e0a1b62a06aa27f2583c79c20dcce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/root/workplace/insync/pentest/Digitalbank/app/build/intermediates/pre-dexed/debug/classes_ed54a42d5fff9624418d846b2a746a6b20f0057d.jar" />
     </item>
 
 </items>
